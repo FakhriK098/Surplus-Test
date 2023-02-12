@@ -27,7 +27,7 @@ const USER_TOKEN = "USER_TOKEN";
 const EMAIL = "test123@gmail.com";
 const PASSWORD = "1234";
 const BASE_URL = "https://api.themoviedb.org";
-const TOKEN = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZGVkNzhmZDQ3ZjA1ZTgwODVjYjU4MzJlZjkxY2VjNCIsInN1YiI6IjYzYzdkOWFhN2E5N2FiMDA4MDU3ZWM1MSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.FzZkV2Xd4381lP3XyDishlZW0LrbiRapNk-xV9-N14A";
+const TOKEN = "Bearer Paste here your credential key";
 
 const Constants = {
     ROUTE,
